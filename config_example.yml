@@ -1,0 +1,8 @@
+irc:
+  nick: "<your_twitch_username"
+  pass: "oauth_key"
+  channel: "channel to visit"
+twitch:
+  client_id: "client_id"
+  client_secret: "client_secret"
+  token: "token"
